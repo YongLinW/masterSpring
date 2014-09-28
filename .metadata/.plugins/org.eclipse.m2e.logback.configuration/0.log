@@ -313,3 +313,25 @@ java.util.concurrent.CancellationException: null
 2014-09-28 23:47:02,719 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
 2014-09-28 23:47:02,765 [Worker-0] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
 2014-09-28 23:52:26,709 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.ly.spring:chapter2:0.0.1-SNAPSHOT @ C:\masterSpring\chapter2\pom.xml.
+2014-09-28 23:55:51,033 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.ly.spring:chapter2:0.0.1-SNAPSHOT @ C:\masterSpring\chapter2\pom.xml.
+2014-09-28 23:57:33,862 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-09-28 23:57:33,870 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-09-28 23:57:33,879 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-09-28 23:57:40,164 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.ly.spring:chapter2:0.0.1-SNAPSHOT @ C:\masterSpring\chapter2\pom.xml.
+2014-09-28 23:57:40,652 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.ly.spring:chapter2:0.0.1-SNAPSHOT @ C:\masterSpring\chapter2\pom.xml.
+2014-09-28 23:57:41,484 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter2/src/main/java
+2014-09-28 23:57:41,485 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter2/src/main/resources
+2014-09-28 23:57:41,486 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter2/src/test/java
+2014-09-28 23:57:41,618 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2014-09-28 23:57:43,162 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-09-28 23:57:43,163 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-09-28 23:57:44,155 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.ly.spring:chapter2:0.0.1-SNAPSHOT @ C:\masterSpring\chapter2\pom.xml.
+2014-09-28 23:57:44,416 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-28 23:57:44,424 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-28 23:57:44,426 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-28 23:57:44,431 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\masterSpring\chapter2\src\test\resources
+2014-09-28 23:57:45,171 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.ly.spring:chapter2:0.0.1-SNAPSHOT @ C:\masterSpring\chapter2\pom.xml.
+2014-09-28 23:57:45,887 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-28 23:57:45,893 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-28 23:57:45,895 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-28 23:57:45,901 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\masterSpring\chapter2\src\test\resources

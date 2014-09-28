@@ -2334,3 +2334,24 @@ org.eclipse.ecf.filetransfer.IncomingFileTransferException: HttpComponents conne
 	at java.lang.Thread.run(Unknown Source)
 !SUBENTRY 2 org.eclipse.ecf.identity 4 0 2014-09-28 23:47:23.285
 !MESSAGE HttpComponents connection error response code 500.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:33.863
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:33.870
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:33.880
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:44.417
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:44.427
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:45.888
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-09-28 23:57:45.899
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
