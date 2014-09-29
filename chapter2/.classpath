@@ -23,7 +23,11 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+>>>>>>> 5355d447ebbee04e340256aed745390b761c6446
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
